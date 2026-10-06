@@ -100,15 +100,9 @@ Pod restarts ↑
    Verify recovery
 ```
 
-## Project Status
-
-🚧 Under active development.
 
 ## Vision
 
 Cloud Autopilot aims to demonstrate how modern DevOps, cloud engineering, observability, reliability engineering, automation, and intelligent decision-making can be combined into a single platform.
 
 ---
-
-**Project:** Cloud Autopilot
-**Category:** DevOps / Cloud / SRE / Platform Engineering
